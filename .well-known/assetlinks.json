@@ -1,3 +1,4 @@
+
 [
   {
     "relation": [
@@ -8,6 +9,18 @@
       "package_name": "io.github.sysorapro.twa",
       "sha256_cert_fingerprints": [
         "CC:BB:C9:9C:42:16:5E:4C:CF:51:D3:6D:E3:B8:0C:7F:77:1D:69:05:54:88:27:A6:5E:8A:E1:3C:D3:D9:D7:2C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sysora.tools",
+      "sha256_cert_fingerprints": [
+        "B7:0E:77:82:46:3F:DA:B4:E8:68:35:BA:71:9D:6B:48:39:2E:79:85:A0:C8:77:E5:BF:17:ED:5B:76:7C:C2:E0"
       ]
     }
   }
