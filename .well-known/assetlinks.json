@@ -12,3 +12,17 @@
     }
   }
 ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sysorapro.tools",
+      "sha256_cert_fingerprints": [
+        "B7:0E:77:82:46:3F:DA:B4:E8:68:35:BA:71:9D:6B:48:39:2E:79:85:A0:C8:77:E5:BF:17:ED:5B:76:7C:C2:E0"
+      ]
+    }
+  }
+]
